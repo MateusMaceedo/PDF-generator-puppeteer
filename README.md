@@ -78,7 +78,9 @@ npm install puppeteer
 https://app.rocketseat.com.br
 
 # 👨🏻‍🚀 Sobre mim
+<h1 align="center">
 <a href="https://www.linkedin.com/in/mateus-macedo-937a32163/" align="center">
  <img style="border-radius:50%" width="100px; "src="https://avatars.githubusercontent.com/u/63172367?s=460&u=11fd26ea8a7f5663d7707d7ef254e4f8bfca1b05&v=4" align="center"/>
  <p align="center">Mateus Macedo</p>
 </a>
+</h1> 
