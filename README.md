@@ -19,8 +19,8 @@ Linux | Windows 10
 #### 🚀 Como executar ?? 
 - Instalando dependências
 ```
-npm instal -D
-npm instal express
+npm install -D
+npm install express
 ```
 - Rodando a aplicação 
 ```
