@@ -32,6 +32,13 @@ node src/server.js
 npm install puppeteer
 ```
 
+#### Melhorias e adaptações futuras
+- [x] nest
+- [x] graphql
+- [x] kafka
+- [x] postgress
+- [x] typeprm
+
 #### Como exportar um PDF com NodeJS
 
 * [x] Pq eu preciso exportar um PDF?
