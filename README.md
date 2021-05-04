@@ -1,10 +1,7 @@
 <h1 align="center">
 <img src="https://img.icons8.com/ios/452/pdf.png" width="135" height="135">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Green_check.svg" width="135" height="135">
-</h1>
-
-<h1 align="center" font-size: 12>
- Gerando PDF com Node e Puppeter
+<b> Gerando PDF com Node e Puppeter
 </h1>
 
 Projeto desenvolvido através da aula do Maiky Brito no YouTube, afim de definir uma criação solida de documentação, para assim estudos, analise ou exportação de documentos, demonstrando a facilidade que podemos ter utilizando o JavaScript e o Puppeteer, esse projeto esta gerando um arquivo PDF, mais isso pode ser facilmente ajustado para criar varios tipo de arquivos, automações também é possivel, "Desde de que" esteja dentro do servidor node e da estrutura central. Aos poucos estarei melhorando ainda mais essa ideia sensacional.
