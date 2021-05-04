@@ -7,15 +7,15 @@
 
 Projeto desenvolvido através da aula do Maiky Brito no YouTube, afim de definir uma criação solida de documentação, para assim estudos, analise ou exportação de documentos, demonstrando a facilidade que podemos ter utilizando o JavaScript e o Puppeteer, esse projeto esta gerando um arquivo PDF, mais isso pode ser facilmente ajustado para criar varios tipo de arquivos, automações também é possivel, "Desde de que" esteja dentro do servidor node e da estrutura central. Aos poucos estarei melhorando ainda mais essa ideia sensacional.
 
-## Tecnologias 
+#### Tecnologias 
 - JavaScript
 - Node
 - Puppeteer
 
-## Ambiente
+#### Ambiente
 Linux | Windows 10
 
-## Como executar ??
+#### Como executar ??
 - Rodando a aplicação 
 ```
 node src/server.js
@@ -26,19 +26,19 @@ node src/server.js
 npm install puppeteer
 ```
 
-## Como exportar um PDF com NodeJS
+#### Como exportar um PDF com NodeJS
 
 * [x] Pq eu preciso exportar um PDF?
 * [x] Existem outras ferramentas?
 * [x] Pq eu vou usar o NodeJS?
 
-## O que vamos aprender aqui?
+#### O que vamos aprender aqui?
 * [x] NodeJS
 * [x] Criar um servidor com uma rota
 * [x] Usar um template engine
 * [x] Usar callbacks
 
-## Bora codar?
+#### Bora codar?
 * [x] Iniciar o projeto com NPM
 * [x] Instalar dependencias`express ejs html-pdf`
 * [x] Iniciar o servidor
@@ -55,7 +55,7 @@ npm install puppeteer
 * [x] Callback de novo?
 * [x] Gerar o arquivo
 
-## Bônus
+#### Bônus
 
 * [x] Melhorar o estilo do PDF
 * [x] Utilizar o `puppeteer`
@@ -68,7 +68,7 @@ npm install puppeteer
 * [x] configurar o tipo de conteúdo da rota como `application/pdf`
 * [x] exportar o PDF
 
-## Próximos passos
+#### Próximos passos
 
 * [x] Revise seu código e tente lembrar o que cada coisa faz
 * [x] Crie uma nova ideia de exportação de PDF, baseado nesse modelo
