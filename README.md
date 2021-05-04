@@ -33,11 +33,11 @@ npm install puppeteer
 ```
 
 #### Melhorias e adaptações futuras
-- [v] nest
-- [v] graphql
-- [v] kafka
-- [v] postgress
-- [v] typeprm
+- [x] nest
+- [x] graphql
+- [x] kafka
+- [x] postgress
+- [x] typeprm
 
 #### Como exportar um PDF com NodeJS
 
