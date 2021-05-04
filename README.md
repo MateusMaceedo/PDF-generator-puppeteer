@@ -17,6 +17,11 @@ Projeto desenvolvido através da aula do Maiky Brito no YouTube, afim de definir
 Linux | Windows 10
 
 #### 🚀 Como executar ?? 
+- Instalando dependências
+```
+npm instal -D
+npm instal express
+```
 - Rodando a aplicação 
 ```
 node src/server.js
