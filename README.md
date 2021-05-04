@@ -1,5 +1,6 @@
 <h1 align="center">
 <img src="https://img.icons8.com/ios/452/pdf.png" width="135" height="135">
+<img src="https://www.clipartmax.com/png/middle/78-780352_puppeteer-logo-google-puppeteer.png" width="234.78" height="135">
 </h1>
 
 # Gerando PDF com Node e Puppeter
